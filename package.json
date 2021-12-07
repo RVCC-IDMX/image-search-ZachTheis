@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "search for unsplash images using query",
   "scripts": {
-    "dev": "serve src"
+    "dev": "netlify dev"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.3",
+    "netlify-cli": "^8.0.16",
     "prettier": "^2.5.0"
   },
   "dependencies": {
